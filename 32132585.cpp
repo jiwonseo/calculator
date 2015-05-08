@@ -11,6 +11,7 @@ int main(){
 
 	printf("%d\n",sum);
 	printf("jiwonjiwon");
+	printf("gahaha");
 	return 0;
 
 }
